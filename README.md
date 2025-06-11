@@ -1,4 +1,4 @@
-# Excel_Projects
+# Excel_Project
 # Vrinda Store Data Analysis Project
 
 # Overview
